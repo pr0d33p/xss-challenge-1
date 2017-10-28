@@ -2,7 +2,6 @@
 <html>
 <head>
 	<title>SOLO XSS #1</title>
-<link rel="stylesheet" type="text/css" href="http://localhost/ctf/xss/css/locals/fa/style.css">
 <style type="text/css">
 	body{
 		background-repeat: none;
@@ -96,4 +95,4 @@ else echo("<center><h3><font color=\"red\">[!] Enter the query.</font></h3></cen
  <br><br>
  <center><h4>pm the query</h4></center>
  <center><font face="Cursive"  color="blue">Solvers:</font>
- 		<pre><b>1) Somdev Sangwan</b><br>2 - 5 <b>Comeon solve it :p</b></pre></center>
+ 		<pre><b>Comeon solve it</b></pre></center>
